@@ -1,0 +1,10 @@
+{
+  "name": "@emmafallancy/typescript-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Emmanuel Fallancy <emmanuel.fallancy@gmail.com> (https://emmanuel.dev)",
+  "main": "tsconfig.json",
+  "keywords": ["tsconfig", "typescript"],
+  "description": "TypeScript base config",
+  "files": ["tsconfig.json"]
+}

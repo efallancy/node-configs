@@ -1,0 +1,16 @@
+{
+  "name": "node-configs",
+  "version": "1.0.0",
+  "author": "Emmanuel Fallancy <emmanuel.fallancy@gmail.com> (https://emmanuel.dev)",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "scripts": {
+    "publish": "lerna publish"
+  }
+}
