@@ -6,7 +6,7 @@
   "main": "tsconfig.json",
   "keywords": ["tsconfig", "typescript"],
   "description": "TypeScript base config",
-  "files": ["tsconfig.json"]
+  "files": ["tsconfig.json"],
   "publishConfig": {
     "access": "public"
   }
