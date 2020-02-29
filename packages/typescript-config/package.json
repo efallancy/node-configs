@@ -1,6 +1,6 @@
 {
   "name": "@emmafallancy/typescript-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "author": "Emmanuel Fallancy <emmanuel.fallancy@gmail.com> (https://emmanuel.dev)",
   "main": "tsconfig.json",
@@ -9,5 +9,10 @@
   "files": ["tsconfig.json"],
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emmafallancy/node-configs.git",
+    "directory": "packages/typescript-config"
   }
 }
